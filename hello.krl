@@ -1,4 +1,3 @@
-
 ruleset hello_world {
   meta {
     name "Hello World"
